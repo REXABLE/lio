@@ -3345,6 +3345,7 @@ version = "2.2.7"
 dependencies = [
  "aleo-std",
  "indexmap 2.5.0",
+ "lru",
  "parking_lot",
  "snarkvm",
  "tracing",
